@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\CK Project\PreLimLabExam_Garcia\PreLimLabExam_Garcia\bin\Debug\PreLimLabExam_Garcia.exe.config
+C:\Users\student\Desktop\CK Project\PreLimLabExam_Garcia\PreLimLabExam_Garcia\bin\Debug\PreLimLabExam_Garcia.exe
+C:\Users\student\Desktop\CK Project\PreLimLabExam_Garcia\PreLimLabExam_Garcia\bin\Debug\PreLimLabExam_Garcia.pdb
+C:\Users\student\Desktop\CK Project\PreLimLabExam_Garcia\PreLimLabExam_Garcia\obj\Debug\PreLimLabExam_Garcia.csprojAssemblyReference.cache
+C:\Users\student\Desktop\CK Project\PreLimLabExam_Garcia\PreLimLabExam_Garcia\obj\Debug\PreLimLabExam_Garcia.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\CK Project\PreLimLabExam_Garcia\PreLimLabExam_Garcia\obj\Debug\PreLimLabExam_Garcia.exe
+C:\Users\student\Desktop\CK Project\PreLimLabExam_Garcia\PreLimLabExam_Garcia\obj\Debug\PreLimLabExam_Garcia.pdb
